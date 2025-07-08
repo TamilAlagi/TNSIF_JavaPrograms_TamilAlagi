@@ -1,4 +1,4 @@
-package com.tnsif.packagedemo;
+Rpackage com.tnsif.packageandaccessmodifier;
 
 import java.util.Scanner;
 
